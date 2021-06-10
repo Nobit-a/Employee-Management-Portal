@@ -1,5 +1,5 @@
 # Employee-Management-Portal
-An employee management portal created using Angular, Django and SQLite.
+*An employee management portal created using Angular, Django and SQLite.*
 
 To run the portal, follow the underlying steps -:
 
